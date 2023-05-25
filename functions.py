@@ -1,5 +1,5 @@
 import random
-
+ 
 def load_quotes(filename):
     quotes = []
     with open(filename, 'r') as file:
